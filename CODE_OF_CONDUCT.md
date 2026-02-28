@@ -59,7 +59,7 @@ They may take any action they consider appropriate and proportionate, including:
 
 ## Reporting
 
-Report Code of Conduct problems to **conduct@librecourseuy.org**.
+Report Code of Conduct problems to **contact@ego-services.com**.
 
 Before publishing, replace that address with a real contact that at least two trusted maintainers can access.
 
