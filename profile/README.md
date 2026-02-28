@@ -1,4 +1,4 @@
-# LibrecourseUY
+# LibreCourseUY
 
 Open Source projects for Engineering students.
 
